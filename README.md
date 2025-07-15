@@ -11,7 +11,7 @@ Saleh, a Computer Science student based in Amman, Jordan.<br>With a strong found
 <!-- Snake Game Repo View -->
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 </div>
 
 # 📊 GitHub Stats:
