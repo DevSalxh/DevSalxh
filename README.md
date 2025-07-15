@@ -10,7 +10,7 @@ Saleh, a Computer Science student based in Amman, Jordan.<br>With a strong found
 
 <!-- Snake Game Repo View -->
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/DevSalxh/DevSalxh/blob/output/github-snake-dark.svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devsalxh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
