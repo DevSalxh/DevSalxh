@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saleh, a Computer Science student based in Amman, Jordan.<br>With a strong foundation in .NET full-stack web development, particularly with MVC and Web API.<br>I'm currently expanding my frontend expertise by actively learning and building projects with Angular, including my ongoing academic website.
+Saleh, a Computer Science student based in Amman, Jordan.<br>With a strong foundation in .NET Full-Stack web development, particularly with MVC and Web API.<br>I'm currently expanding my frontend expertise by actively learning and building projects with Angular, including my ongoing academic website.
 
 
 ## 🌐 Socials:
