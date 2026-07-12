@@ -1,0 +1,231 @@
+<svg viewBox="0 0 900 900" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="'JetBrains Mono', 'Courier New', monospace">
+<defs>
+  <radialGradient id="bgGlow" cx="50%" cy="50%" r="70%">
+    <stop offset="0%" stop-color="#1b1533"/>
+    <stop offset="55%" stop-color="#0d0b1a"/>
+    <stop offset="100%" stop-color="#08070f"/>
+  </radialGradient>
+  <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="ringLine" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#A78BFA"/>
+    <stop offset="100%" stop-color="#6D5FE0"/>
+  </linearGradient>
+</defs>
+
+<rect x="0" y="0" width="900" height="900" fill="url(#bgGlow)"/>
+
+<circle cx="450.0" cy="450.0" r="230" fill="none" stroke="#3a3560" stroke-width="1" stroke-dasharray="2 6" opacity="0.5"/>
+<circle cx="450.0" cy="450.0" r="400" fill="none" stroke="#3a3560" stroke-width="1" stroke-dasharray="2 6" opacity="0.35"/>
+<g id="mapGroup">
+  <animateTransform attributeName="transform" type="scale" values="1;1.015;1" dur="5s" repeatCount="indefinite" additive="sum" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" keyTimes="0;0.5;1"/>
+<line x1="450.0" y1="388.0" x2="450.0" y2="220.0" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.00s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="493.8" y1="406.2" x2="612.6" y2="287.4" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.09s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="512.0" y1="450.0" x2="680.0" y2="450.0" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="493.8" y1="493.8" x2="612.6" y2="612.6" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="450.0" y1="512.0" x2="450.0" y2="680.0" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="406.2" y1="493.8" x2="287.4" y2="612.6" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="388.0" y1="450.0" x2="220.0" y2="450.0" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="406.2" y1="406.2" x2="287.4" y2="287.4" stroke="url(#ringLine)" stroke-width="1.4" opacity="0.55"
+    stroke-dasharray="168.0" stroke-dashoffset="168.0">
+    <animate attributeName="stroke-dashoffset" from="168.0" to="0" dur="1s" begin="0.63s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="538.0" y1="237.5" x2="603.1" y2="80.4" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="0.70s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="662.5" y1="362.0" x2="819.6" y2="296.9" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="0.79s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="662.5" y1="538.0" x2="819.6" y2="603.1" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="0.88s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="538.0" y1="662.5" x2="603.1" y2="819.6" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="0.97s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="362.0" y1="662.5" x2="296.9" y2="819.6" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="1.06s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="237.5" y1="538.0" x2="80.4" y2="603.1" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="1.15s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="237.5" y1="362.0" x2="80.4" y2="296.9" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="1.24s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<line x1="362.0" y1="237.5" x2="296.9" y2="80.4" stroke="#5b53a3" stroke-width="1" opacity="0.4"
+    stroke-dasharray="170.0" stroke-dashoffset="170.0">
+    <animate attributeName="stroke-dashoffset" from="170.0" to="0" dur="0.9s" begin="1.33s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </line>
+<circle r="3.5" fill="#ffffff">
+  <animateMotion dur="9s" repeatCount="indefinite" path="M 680.0,450.0 a 230,230 0 1,0 -460,0 a 230,230 0 1,0 460,0"/>
+</circle>
+<circle r="3" fill="#A78BFA">
+  <animateMotion dur="14s" repeatCount="indefinite" path="M 850.0,450.0 a 400,400 0 1,1 -800,0 a 400,400 0 1,1 800,0"/>
+</circle>
+<circle cx="450.0" cy="450.0" r="90" fill="url(#hubGlow)">
+  <animate attributeName="r" values="84;96;84" dur="3s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.6;1;0.6" dur="3s" repeatCount="indefinite"/>
+</circle>
+<circle cx="450.0" cy="450.0" r="62" fill="#12101f" stroke="#A78BFA" stroke-width="2"/>
+<text x="450.0" y="444.0" text-anchor="middle" fill="#ffffff" font-size="22" font-weight="700">ZEN1X</text>
+<text x="450.0" y="466.0" text-anchor="middle" fill="#A78BFA" font-size="11" letter-spacing="1">TECH MAP</text>
+
+<g opacity="0" transform="translate(450.0,220.0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.15s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="4s" begin="0.65s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=nextjs" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Next.js</text>
+  </g>
+<g opacity="0" transform="translate(612.6,287.4)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="3s" begin="0.74s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=react" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">React</text>
+  </g>
+<g opacity="0" transform="translate(680.0,450.0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.33s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="4s" begin="0.83s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=ts" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">TypeScript</text>
+  </g>
+<g opacity="0" transform="translate(612.6,612.6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.42s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="0.92s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=tailwind" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Tailwind</text>
+  </g>
+<g opacity="0" transform="translate(450.0,680.0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.51s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="1.01s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=dotnet" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">.NET</text>
+  </g>
+<g opacity="0" transform="translate(287.4,612.6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="3s" begin="1.10s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=nodejs" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Node.js</text>
+  </g>
+<g opacity="0" transform="translate(220.0,450.0)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.69s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="1.19s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=prisma" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Prisma</text>
+  </g>
+<g opacity="0" transform="translate(287.4,287.4)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.78s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="1.28s" repeatCount="indefinite"/>
+    <circle r="33.2" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=postgres" x="-24.2" y="-24.2" width="48.3" height="48.3"/>
+    <text x="0" y="46.2" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">PostgreSQL</text>
+  </g>
+<g opacity="0" transform="translate(603.1,80.4)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.85s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="1.35s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=angular" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Angular</text>
+  </g>
+<g opacity="0" transform="translate(819.6,296.9)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.94s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="4s" begin="1.44s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=redis" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Redis</text>
+  </g>
+<g opacity="0" transform="translate(819.6,603.1)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.03s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="1.53s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=docker" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Docker</text>
+  </g>
+<g opacity="0" transform="translate(603.1,819.6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.12s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="3s" begin="1.62s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=azure" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Azure</text>
+  </g>
+<g opacity="0" transform="translate(296.9,819.6)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.21s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="4s" begin="1.71s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=vercel" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Vercel</text>
+  </g>
+<g opacity="0" transform="translate(80.4,603.1)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.30s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="1.80s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=git" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">Git</text>
+  </g>
+<g opacity="0" transform="translate(80.4,296.9)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.39s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="3s" begin="1.89s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=githubactions" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">CI/CD</text>
+  </g>
+<g opacity="0" transform="translate(296.9,80.4)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.48s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" additive="sum"
+      values="0,0; 0,-4; 0,0" dur="5s" begin="1.98s" repeatCount="indefinite"/>
+    <circle r="29.7" fill="#161326" stroke="#3a3560" stroke-width="1"/>
+    <image href="https://skillicons.dev/icons?i=cs" x="-20.7" y="-20.7" width="41.4" height="41.4"/>
+    <text x="0" y="42.7" text-anchor="middle" fill="#c9c3e6" font-size="12.5" font-weight="500">C#</text>
+  </g>
+</g>
+</svg>
