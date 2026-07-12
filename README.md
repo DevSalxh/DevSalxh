@@ -1,293 +1,292 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=280&amp;section=header&amp;text=SALEH%20ABU%20SALEH&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Engineer%20%C2%B7%20ERP%20%26%20Enterprise%20Systems%20%C2%B7%20AI%20Integration&amp;descAlignY=58&amp;descSize=18" width="100%"/>
-
-<sub>a.k.a. <b>Zen1x</b></sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:6D28D9,100:22D3EE&height=280&section=header&text=Saleh%20Mohammed%20Abu%20Saleh&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Founder%20of%20ZenTr1x&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://salxh.dev"><img src="https://img.shields.io/badge/Portfolio-salxh.dev-0f0c29?style=for-the-badge&amp;logo=vercel&amp;logoColor=white&amp;labelColor=000000" /></a>
-<a href="https://zentr1x.team"><img src="https://img.shields.io/badge/Team-ZenTr1x-302b63?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white&amp;labelColor=000000" /></a>
-<a href="https://linkedin.com/in/salehabusaleh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=000000" /></a>
-<a href="https://tedx.zu.edu.jo"><img src="https://img.shields.io/badge/TEDx-Zarqa%20University-EB0028?style=for-the-badge&amp;logo=ted&amp;logoColor=white&amp;labelColor=000000" /></a>
+<a href="https://salxh.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=6D28D9&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Engineer+%7C+.NET+%26+Next.js;Founder+%26+Lead+Developer+%40+ZenTr1x;Technical+Director+%40+GDG+HU+%2F+TEDx+Zarqa;Building+ERPs%2C+Platforms+%26+AI+Products" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=800&amp;height=90&amp;lines=Founder+%26+Lead+Developer+%40+ZenTr1x;Technical+Director+%40+TEDx+Zarqa+University;Technical+Director+%40+GDG+HU;Building+ERPs+that+run+real+businesses." />
+<a href="https://salxh.dev"><img src="https://img.shields.io/badge/Portfolio-salxh.dev-6D28D9?style=for-the-badge&logo=safari&logoColor=white" /></a>
+<a href="https://zentr1x.team"><img src="https://img.shields.io/badge/ZenTr1x-Team-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/salehabusaleh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tedx.zu.edu.jo"><img src="https://img.shields.io/badge/TEDx-Zarqa%20University-EB0028?style=for-the-badge&logo=ted&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:302b63,100:0f0c29&amp;height=2&amp;width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=3&width=100%" width="100%"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> About Me
+<br/>
+
+## ⟡ About Me
+
+<img align="right" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" width="0" height="0"/>
+
+I design and ship production-grade software end to end — from database schema to pixel-perfect UI. My work centers on **ERP systems, developer platforms, and AI-powered products**, built with a strong bias toward clean architecture and systems that scale without falling apart under real-world use.
 
 ```ts
 const saleh: Engineer = {
-  role: ["Founder &amp; Lead Developer @ ZenTr1x", "Technical Director @ TEDx Zarqa University", "Technical Director @ GDG HU"],
-  focus: "Enterprise-grade web applications &amp; ERP systems",
-  philosophy: "I build products, not tutorials.",
-  stack: {
-    backend: ["ASP.NET Core", ".NET", "Node.js", "Prisma", "Clean Architecture", "CQRS", "Microservices"],
-    frontend: ["Next.js", "React", "Angular", "TypeScript", "Tailwind CSS"],
-    data: ["PostgreSQL", "SQL Server", "Redis"],
-    ai: ["OpenAI", "Gemini", "LangChain", "RAG", "Vector DBs"],
-  },
-  currentlyBuilding: "Production ERP systems for real businesses — inventory, sales, accounting, analytics",
+  role: "Founder & Lead Developer @ ZenTr1x",
+  focus: ["Full-Stack ERP Systems", "Distributed Backends", "AI-Native Products"],
+  languages: ["C#", "TypeScript"],
+  philosophy: "Ship it clean, ship it once, ship it right.",
+  currentlyBuilding: "Multi-tenant ERP platforms with real-time financial engines",
 };
 ```
 
-I design and ship full-stack systems end-to-end — from database schema to pixel-perfect, RTL-ready interfaces. My work centers on **distributed, scalable architecture** for real operational businesses: warehouses, factories, and enterprise teams that need software they can actually run on.
+- 🏗️ Building **enterprise ERP systems** — inventory, sales, consignment & finance modules from the ground up
+- 🧠 Technical Director at **GDG Harmoon University** and **TEDx Zarqa University**
+- 🚀 Founder of **ZenTr1x** — a product & engineering team shipping real software
+- 🎯 Deep focus on Clean Architecture, CQRS, DDD, and pragmatic system design
+- 🌍 Based in Amman, Jordan — working with teams globally
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:302b63,100:0f0c29&amp;height=2&amp;width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:6D28D9&height=3&width=100%" width="100%"/>
 
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="28"/> Tech Stack
+<br/>
+
+## ⟡ Tech Stack
 
 <div align="center">
 
-<img src="./assets/tech-map.svg" width="100%" alt="Saleh's animated tech stack orbit map"/>
+**Backend & Architecture**
 
-<sub>Core stack in the inner orbit, supporting tools and platforms in the outer orbit — lines draw in, nodes drift gently, satellites keep circling.</sub>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+**Data & Infrastructure**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+**AI & Applied ML**
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+**Practices**
+
+<img src="https://img.shields.io/badge/Clean_Architecture-101828?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CQRS-101828?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DDD-101828?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-101828?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-101828?style=for-the-badge"/>
 
 </div>
 
-<details>
-<summary><b>Full stack, in text</b></summary>
 <br/>
 
-**Backend &amp; Architecture** — ASP.NET Core, .NET, Node.js, Prisma, SignalR, JWT, CQRS, MediatR, Microservices
-<br/>
-**Frontend** — Next.js, React, Angular, TypeScript, Tailwind CSS, Framer Motion
-<br/>
-**Database &amp; Cloud** — PostgreSQL, SQL Server, SQLite, Redis, Azure, Vercel, Docker, GitHub Actions, Cloudinary
-<br/>
-**AI &amp; Data** — OpenAI, Gemini, LangChain, RAG, Vector Databases
-
-</details>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=3&width=100%" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:302b63,100:0f0c29&amp;height=2&amp;width=100%" />
+## ⟡ Featured Projects
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### 🏢 Electrical Warehouse ERP
+**Full-featured enterprise inventory & sales system**
 
-<table width="100%">
-<tr><td>
+Mobile-first Arabic RTL ERP built for a real electrical goods warehouse — hybrid product schema (shared table + per-category spec tables), stock ledger with full audit trail, and a two-role permission system.
 
-### 🧩 GDG HU Workspace
-**Enterprise Collaboration Platform**
-
-An internal enterprise-grade platform built for Google Developer Group HU — 13+ integrated modules covering team collaboration, task management, and organizational analytics.
+`Next.js` `Prisma` `PostgreSQL` `Auth.js v5` `TypeScript`
 
 **Highlights**
-- Full RBAC (role-based access control) across all modules
-- Kanban-based project &amp; task workflows
-- Real-time analytics dashboards
-- In-app notification system
+- 10+ spec-driven product detail tables
+- Edge-safe JWT authentication & middleware
+- Full purchase / sale / movement / audit log schema
 
-`Next.js 15` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `JWT` · `Argon2`
+<img src="https://img.shields.io/badge/Status-Active%20Development-22C55E?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Modules-13+-A78BFA?style=flat-square"/> <img src="https://img.shields.io/badge/Access%20Control-RBAC-A78BFA?style=flat-square"/> <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=flat-square"/>
+</td>
+<td width="50%" valign="top">
 
-</td></tr>
-<tr><td>
+### 💰 Fudge & Co. ERP
+**Bakery & sales management platform**
+
+An ERP evolved through multiple iterations — cost tracking, per-customer financial reporting, consignment & expense modules — later converted into an **offline Electron + SQLite desktop app** for Windows.
+
+`Next.js` `Prisma` `Electron` `SQLite` `TypeScript`
+
+**Highlights**
+- Unified profit-calculation engine across every surface
+- Offline-first desktop distribution
+- Custom `electron-builder` patch for Windows packaging
+
+<img src="https://img.shields.io/badge/Status-Active%20Development-22C55E?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 GDG HU Workspace
+**Community & event operations platform**
+
+Built as Technical Director of Google Developer Groups at Harmoon University — powering event logistics, member management, and community operations.
+
+`Next.js` `TypeScript` `TailwindCSS`
+
+<img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎤 TEDx Zarqa University
-**Official Conference Website**
+**Official technical infrastructure**
 
-The official, publicly live website for TEDx Zarqa University — built as a fully serverless application with a modern, animated interface designed to represent the event's brand.
+Led the technical direction of TEDx Zarqa University's digital presence and event-day systems as Technical Director.
 
-**Highlights**
-- Fully serverless deployment
-- Smooth, purposeful motion design
-- Cloudinary-powered media pipeline
+`Web Platform` `Systems Architecture`
 
-`Next.js` · `PostgreSQL` · `Prisma` · `Cloudinary` · `Animations`
+<a href="https://tedx.zu.edu.jo"><img src="https://img.shields.io/badge/Status-Live-22C55E?style=flat-square"/></a>
 
-<img src="https://img.shields.io/badge/Status-Live-2ea44f?style=flat-square"/> <a href="https://tedx.zu.edu.jo"><img src="https://img.shields.io/badge/Visit-tedx.zu.edu.jo-EB0028?style=flat-square&amp;logo=ted&amp;logoColor=white"/></a>
-
-</td></tr>
-<tr><td>
-
-### ⚡ Electrical Warehouse ERP
-**Production-Grade Warehouse Management System**
-
-A full enterprise ERP built for electrical warehouses — covering inventory, purchasing, sales, accounting, and multi-warehouse operations end-to-end.
-
-**Highlights**
-- Barcode &amp; QR-based inventory scanning
-- Warehouse transfers with full stock ledger auditing
-- Profit analysis and operational reporting
-- Mobile-first, RTL-ready interface for floor use
-
-`Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `Tailwind CSS` · `Serverless` · `Barcode/QR`
-
-<img src="https://img.shields.io/badge/Architecture-Mobile%20First-A78BFA?style=flat-square"/> <img src="https://img.shields.io/badge/Scanning-Barcode%20%2F%20QR-A78BFA?style=flat-square"/> <img src="https://img.shields.io/badge/Status-In%20Development-f39c12?style=flat-square"/>
-
-</td></tr>
-<tr><td>
-
-### 🍰 Fudge &amp; Co ERP
-**Enterprise ERP for a Cake &amp; Bakery Factory**
-
-A complete production-to-sale ERP built for a real bakery manufacturing business, spanning the full operational cycle from raw ingredients to customer delivery.
-
-**Highlights**
-- Recipe &amp; ingredient-driven production management
-- Purchase orders, sales, and cost/profit analysis
-- Barcode/QR-integrated warehouse tracking
-- Employee management and analytics dashboard
-
-`Next.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Serverless`
-
-<img src="https://img.shields.io/badge/Domain-Manufacturing%20ERP-A78BFA?style=flat-square"/> <img src="https://img.shields.io/badge/Reports-Cost%20%26%20Profit-A78BFA?style=flat-square"/>
-
-</td></tr>
-<tr><td>
-
-### 🤝 Athar AlT6w3
-**Volunteer Platform**
-
-A platform connecting volunteers with opportunities, built with secure authentication and cloud-based media handling.
-
-`Serverless` · `JWT` · `Cloudinary`
-
-<a href="https://athar-alt6w3.vercel.app/"><img src="https://img.shields.io/badge/Visit-athar--alt6w3.vercel.app-2ea44f?style=flat-square&amp;logo=vercel&amp;logoColor=white"/></a>
-
-</td></tr>
-<tr><td>
-
-### 💰 Floosy AI
-**AI-Powered Financial Platform**
-
-An AI financial assistant combining computer vision and geolocation to help users track and understand their spending.
-
-**Achievement:** 🥉 3rd Place Winner
-
-`Gemini Vision` · `Firebase` · `Maps API` · `AI`
-
-<img src="https://img.shields.io/badge/Hackathon-3rd%20Place-CD7F32?style=flat-square"/> <a href="https://floosy-final.vercel.app/"><img src="https://img.shields.io/badge/Visit-floosy--final.vercel.app-2ea44f?style=flat-square&amp;logo=vercel&amp;logoColor=white"/></a>
-
-</td></tr>
-<tr><td>
-
-### 🎓 SQLab
-**Interactive SQL Learning Platform**
-
-A hands-on platform for learning SQL through live, interactive query execution rather than static tutorials.
-
-<img src="https://img.shields.io/badge/Type-EdTech-A78BFA?style=flat-square"/>
-
-</td></tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:302b63,100:0f0c29&amp;height=2&amp;width=100%" />
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> Professional Experience
-
-<table width="100%">
-<tr>
-<td width="20%"><b>Founder &amp; Lead Developer</b><br/><sub>ZenTr1x</sub></td>
-<td>Building and leading a development team delivering production-grade full-stack and enterprise software.</td>
+</td>
 </tr>
 <tr>
-<td width="20%"><b>Technical Director</b><br/><sub>GDG HU</sub></td>
-<td>Leading technical strategy and platform development for Google Developer Group HU.</td>
+<td width="50%" valign="top">
+
+### 📊 Athar
+**Web platform / product**
+
+`Next.js` `TypeScript` `Vercel`
+
+<a href="https://athar-alt6w3.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Floosy AI
+**AI-powered financial product**
+
+`Next.js` `OpenAI` `TypeScript` `Vercel`
+
+<a href="https://floosy-final.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-6D28D9?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
 </tr>
 <tr>
-<td width="20%"><b>Technical Director</b><br/><sub>TEDx Zarqa University</sub></td>
-<td>Owning the technical delivery of the official TEDx Zarqa University web presence.</td>
-</tr>
-<tr>
-<td width="20%"><b>Freelance Full Stack Developer</b></td>
-<td>Delivering complete ERP and business systems independently — from schema design to deployment.</td>
-</tr>
-<tr>
-<td width="20%"><b>Computer Science Student</b></td>
-<td>Studying systems, architecture, and software engineering fundamentals.</td>
+<td width="50%" valign="top">
+
+### 🧪 SQLab
+**Database & systems learning project**
+
+`SQL` `Database Design` `Systems`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 ZenTr1x
+**Founder & Lead Developer**
+
+The team and product studio I founded — building real software for real clients.
+
+<a href="https://zentr1x.team"><img src="https://img.shields.io/badge/Visit-zentr1x.team-22D3EE?style=flat-square&logo=vercel&logoColor=white"/></a>
+
+</td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:302b63,100:0f0c29&amp;height=2&amp;width=100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:6D28D9&height=3&width=100%" width="100%"/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> GitHub Analytics
+<br/>
+
+## ⟡ GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevSalxh&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;icon_color=A78BFA&amp;text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSalxh&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=A78BFA&amp;text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DevSalxh&show_icons=true&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=22D3EE&icon_color=6D28D9&text_color=E5E7EB&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=DevSalxh&theme=radical&hide_border=true&background=0F0F1A&ring=6D28D9&fire=22D3EE&currStreakLabel=22D3EE" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevSalxh&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=A78BFA&amp;fire=A78BFA&amp;currStreakLabel=A78BFA"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSalxh&layout=compact&theme=radical&hide_border=true&bg_color=0F0F1A&title_color=22D3EE&text_color=E5E7EB&langs_count=10" height="220"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSalxh&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=A78BFA&amp;line=A78BFA&amp;point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevSalxh&theme=react-dark&bg_color=0F0F1A&color=22D3EE&line=6D28D9&point=FFFFFF&hide_border=true" width="100%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=DevSalxh&amp;theme=algolia&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;margin-w=15&amp;column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevSalxh&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" width="100%"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:302b63,100:0f0c29&amp;height=2&amp;width=100%" />
-
-## <img src="https://media.giphy.com/media/xUOxfjsW3wA1F0dnQE/giphy.gif" width="28"/> Current Focus
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**🔨 Building**
-Multiple production ERP systems — warehouse, manufacturing, and sales management — with shared, reusable financial logic and RTL-first interfaces.
-
-</td>
-<td width="33%" valign="top">
-
-**📚 Learning**
-Deepening expertise in distributed systems, operating systems internals, and scalable enterprise architecture patterns.
-
-</td>
-<td width="33%" valign="top">
-
-**🌍 Community**
-Leading technical direction for GDG HU and TEDx Zarqa University, mentoring developers through ZenTr1x.
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:22D3EE&height=3&width=100%" width="100%"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:302b63,100:0f0c29&amp;height=2&amp;width=100%" />
+## ⟡ Experience Timeline
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="28"/> Connect
+```
+2024 — Present   Founder & Lead Developer, ZenTr1x
+                 Building and shipping production software as a team.
+
+2023 — Present   Technical Director, TEDx Zarqa University
+                 Leading technical infrastructure for TEDx events.
+
+2023 — Present   Technical Director, GDG Harmoon University
+                 Directing Google Developer Group technical initiatives.
+
+2022 — Present   Freelance Full Stack Engineer
+                 Delivering complete ERP & web systems for clients.
+
+2021 — Present   Computer Science Student
+                 Systems, architecture, and software engineering fundamentals.
+```
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:6D28D9&height=3&width=100%" width="100%"/>
+
+<br/>
+
+## ⟡ Let's Connect
 
 <div align="center">
 
-<a href="https://salxh.dev"><img src="https://img.shields.io/badge/Portfolio-salxh.dev-0f0c29?style=for-the-badge&amp;logo=vercel&amp;logoColor=white"/></a>
-<a href="https://zentr1x.team"><img src="https://img.shields.io/badge/ZenTr1x-Team-302b63?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white"/></a>
-<a href="https://linkedin.com/in/salehabusaleh"><img src="https://img.shields.io/badge/LinkedIn-salehabusaleh-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"/></a>
-<a href="https://github.com/DevSalxh"><img src="https://img.shields.io/badge/GitHub-DevSalxh-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white"/></a>
+<a href="https://salxh.dev"><img src="https://img.shields.io/badge/Portfolio-salxh.dev-0F0F1A?style=for-the-badge&logo=safari&logoColor=22D3EE"/></a>
+<a href="https://github.com/DevSalxh"><img src="https://img.shields.io/badge/GitHub-DevSalxh-0F0F1A?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/salehabusaleh"><img src="https://img.shields.io/badge/LinkedIn-Saleh%20Abu%20Saleh-0F0F1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://zentr1x.team"><img src="https://img.shields.io/badge/ZenTr1x-Team-0F0F1A?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://tedx.zu.edu.jo"><img src="https://img.shields.io/badge/TEDx-Zarqa%20University-0F0F1A?style=for-the-badge&logo=ted&logoColor=EB0028"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=DevSalxh&label=Profile%20Views&color=6D28D9&style=for-the-badge" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer" width="100%"/>
-
-<div align="center">
-<sub>Building software that runs real businesses — one system at a time.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:6D28D9,100:0F0F1A&height=150&section=footer" width="100%"/>
